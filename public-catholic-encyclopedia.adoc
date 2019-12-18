@@ -1,7 +1,7 @@
 = Public Catholic Encyclopedia
 :updated: 2017-11-18
 :Author: Public Catholic Encyclopedia Team
-:Email:
+:Email: rodmariano13@gmail.com
 :Date: 1/10/2017
 :Revision: v0.99.3
 :doctype: book

@@ -1,6 +1,6 @@
 = Public Catholic Encyclopedia
 :updated: 2017-11-18
-:Author: 
+:Author: Public Catholic Encyclopedia Team
 :Email:
 :Date: 1/10/2017
 :Revision: v0.99.3

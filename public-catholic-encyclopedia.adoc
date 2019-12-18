@@ -6,7 +6,7 @@
 :Revision: v0.1.0
 :doctype: book
 :producer: Asciidoctor
-:keywords: ebook, e-book
+:keywords: ebook, e-book, católico, catolicismo
 :reproducible:
 :icons: font
 :lang: pt-BR

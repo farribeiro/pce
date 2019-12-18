@@ -26,7 +26,7 @@
 :stem: latexmath
 :math:
 :mathematical-format: png
-:gitrepo:
+:gitrepo: https://github.com/public-catholic-encyclopedia/pce
 :copyright: CC-BY-SA 4.0
 :text-alignment: justify
 :source-highlighter: rouge

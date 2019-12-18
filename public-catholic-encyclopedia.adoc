@@ -35,6 +35,8 @@
 :front-cover-image: image:cover.png[Capa,1350,1909]
 ifndef::ebook-format[:leveloffset: 1]
 
+.Versão {Revision} de {Date}
+
 NOTE: Por favor, ao mencioná-lo, cite este endereço para baixar o livro (e se possível fazer doações). Não
 é obrigatório mas seria uma gentileza. E preferivelmente não diga que o livro é "free": passa a idéia
 errada de motivações e objetivos. O livro é _livre_ (open-source), licença CC-BY-SA, diferente em escopo e

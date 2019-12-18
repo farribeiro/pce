@@ -1,0 +1,35 @@
+:updated: 2017-11-18
+:Author: 
+:Email:
+:Date: 1/10/2017
+:Revision: v0.99.3
+:doctype: book
+:producer: Asciidoctor
+:keywords: ebook, e-book
+:reproducible:
+:icons: font
+:lang: pt-BR
+:toc-title: Índice
+:caution-caption: Cuidado
+:important-caption: Importante
+:note-caption: Nota
+:tip-caption: Dica
+:warning-caption: Atenção
+:appendix-caption: Apêndice
+:example-caption: Exemplo
+:figure-caption: Figura
+:table-caption: Tabela
+:toclevels: 5
+:ascii-ids:
+:showcomments:
+:stem: latexmath
+:math:
+:mathematical-format: png
+:gitrepo:
+:copyright: CC-BY-SA 4.0
+:text-alignment: justify
+:source-highlighter: rouge
+:imagesdir: imagens
+:imagesoutdir: img
+:front-cover-image: image:cover.png[Capa,1350,1909]
+ifndef::ebook-format[:leveloffset: 1]

@@ -41,3 +41,10 @@ NOTE: Por favor, ao mencioná-lo, cite este endereço para baixar o livro (e se 
 é obrigatório mas seria uma gentileza. E preferivelmente não diga que o livro é "free": passa a idéia
 errada de motivações e objetivos. O livro é _livre_ (open-source), licença CC-BY-SA, diferente em escopo e
 propósitos de algo meramente gratuito.
+
+<<<
+include::guia-maker-da-impressao-3d-prefacio.adoc[]
+
+<<<
+
+include::guia-maker-da-impressao-3d-introducao.adoc[]

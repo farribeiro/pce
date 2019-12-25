@@ -1,0 +1,50 @@
+= Public Catholic Encyclopedia
+:updated: 2017-11-18
+:Author: Public Catholic Encyclopedia Team
+:Email: rodmariano13@gmail.com
+:Date: 1/10/2017
+:Revision: v0.1.0
+:doctype: book
+:producer: Asciidoctor
+:keywords: ebook, e-book, católico, catolicismo
+:reproducible:
+:icons: font
+:lang: pt-BR
+:toc-title: Índice
+:caution-caption: Cuidado
+:important-caption: Importante
+:note-caption: Nota
+:tip-caption: Dica
+:warning-caption: Atenção
+:appendix-caption: Apêndice
+:example-caption: Exemplo
+:figure-caption: Figura
+:table-caption: Tabela
+:toclevels: 5
+:ascii-ids:
+:showcomments:
+:stem: latexmath
+:math:
+:mathematical-format: png
+:gitrepo: https://github.com/public-catholic-encyclopedia/pce
+:copyright: CC-BY-SA 4.0
+:text-alignment: justify
+:source-highlighter: rouge
+:imagesdir: imagens
+:imagesoutdir: img
+:front-cover-image: image:cover.png[Capa,1350,1909]
+ifndef::ebook-format[:leveloffset: 1]
+
+.Versão {Revision} de {Date}
+
+NOTE: Por favor, ao mencioná-lo, cite este endereço para baixar o livro (e se possível fazer doações). Não
+é obrigatório mas seria uma gentileza. E preferivelmente não diga que o livro é "free": passa a idéia
+errada de motivações e objetivos. O livro é _livre_ (open-source), licença CC-BY-SA, diferente em escopo e
+propósitos de algo meramente gratuito.
+
+<<<
+include::guia-maker-da-impressao-3d-prefacio.adoc[]
+
+<<<
+
+include::guia-maker-da-impressao-3d-introducao.adoc[]
